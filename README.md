@@ -7,3 +7,5 @@ The assignment involved cleaning and preparing the dataset programmatically, fol
 A range of univariate and multivariate visualisations were created to examine distributions, comparisons, and relationships across different treadmill product lines. These visual findings were then consolidated into dashboards designed to communicate insights clearly and effectively to a target business audience.
 
 Overall, this project strengthened my skills in analytical thinking, data storytelling, and visual communication, as well as my ability to use Python-based tools to support data-driven decision-making.
+
+**Key Tools & Concepts:** Python, Jupyter Notebook, Pandas, NumPy, data cleaning and preparation, exploratory data analysis (EDA), data visualisation, Matplotlib, Seaborn, dashboard design, data storytelling, business insight communication.
